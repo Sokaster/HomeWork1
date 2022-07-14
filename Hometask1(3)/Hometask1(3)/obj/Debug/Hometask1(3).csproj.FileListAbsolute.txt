@@ -1,0 +1,8 @@
+D:\Project Courses C#\Hometask1(3)\Hometask1(3)\bin\Debug\Hometask1(3).exe.config
+D:\Project Courses C#\Hometask1(3)\Hometask1(3)\bin\Debug\Hometask1(3).exe
+D:\Project Courses C#\Hometask1(3)\Hometask1(3)\bin\Debug\Hometask1(3).pdb
+D:\Project Courses C#\Hometask1(3)\Hometask1(3)\obj\Debug\Hometask1(3).csproj.AssemblyReference.cache
+D:\Project Courses C#\Hometask1(3)\Hometask1(3)\obj\Debug\Hometask1(3).csproj.SuggestedBindingRedirects.cache
+D:\Project Courses C#\Hometask1(3)\Hometask1(3)\obj\Debug\Hometask1(3).csproj.CoreCompileInputs.cache
+D:\Project Courses C#\Hometask1(3)\Hometask1(3)\obj\Debug\Hometask1(3).exe
+D:\Project Courses C#\Hometask1(3)\Hometask1(3)\obj\Debug\Hometask1(3).pdb

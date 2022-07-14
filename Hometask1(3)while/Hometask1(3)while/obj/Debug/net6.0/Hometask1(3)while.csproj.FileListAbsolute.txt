@@ -1,0 +1,15 @@
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\bin\Debug\net6.0\Hometask1(3)while.exe
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\bin\Debug\net6.0\Hometask1(3)while.deps.json
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\bin\Debug\net6.0\Hometask1(3)while.runtimeconfig.json
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\bin\Debug\net6.0\Hometask1(3)while.dll
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\bin\Debug\net6.0\Hometask1(3)while.pdb
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\obj\Debug\net6.0\Hometask1(3)while.csproj.AssemblyReference.cache
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\obj\Debug\net6.0\Hometask1(3)while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\obj\Debug\net6.0\Hometask1(3)while.AssemblyInfoInputs.cache
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\obj\Debug\net6.0\Hometask1(3)while.AssemblyInfo.cs
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\obj\Debug\net6.0\Hometask1(3)while.csproj.CoreCompileInputs.cache
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\obj\Debug\net6.0\Hometask1(3)while.dll
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\obj\Debug\net6.0\refint\Hometask1(3)while.dll
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\obj\Debug\net6.0\Hometask1(3)while.pdb
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\obj\Debug\net6.0\Hometask1(3)while.genruntimeconfig.cache
+D:\Project Courses C#\Hometask1(3)while\Hometask1(3)while\obj\Debug\net6.0\ref\Hometask1(3)while.dll
